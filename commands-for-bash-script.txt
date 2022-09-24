@@ -1,0 +1,4 @@
+sudo chmod +x /usr/local/bin/Service_Name.sh
+/usr/local/bin/./Service_Name.sh start
+/usr/local/bin/./Service_Name.sh stop
+/usr/local/bin/./Service_Name.sh restart

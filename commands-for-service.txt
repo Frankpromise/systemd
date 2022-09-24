@@ -1,0 +1,4 @@
+sudo systemctl daemon-reload
+sudo systemctl enable Service_Name
+sudo systemctl start  Service_Name
+sudo systemctl stop   Service_Name
